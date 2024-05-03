@@ -1,2 +1,2 @@
 # Ejericios
-Ejercicios rindados por mi queridisimo profesor guía Wilfredo Granados
+Ejercicios brindados por mi queridisimo profesor guía Wilfredo Granados
